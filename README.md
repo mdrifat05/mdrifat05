@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Web tech project**
 
-- 🌱 I’m currently learning **I'm currently learning web technology, AI and problem solving.**
+- 🌱 I’m currently learning **Web technology, AI and problem solving.**
 
-- 💬 Ask me about **Software development, Machin learning**
+<!-- 💬 Ask me about **Software development, Machin learning**-->
 
 - 📫 How to reach me **hossen.mdrifat20@gmail.com**
 
