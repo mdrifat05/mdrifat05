@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **hossen.mdrifat20@gmail.com**
 
-- ⚡ Fun fact **Not many people know this about me, but when I was younger, I fall down from a tree and i didn't broke my hand or legs.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mdrifat_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdrifat_05" height="30" width="40" /></a>
