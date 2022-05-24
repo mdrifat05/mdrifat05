@@ -28,7 +28,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrifat05&show_icons=true)  
 <br>   
-
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdrifat05)  
 
 
 
