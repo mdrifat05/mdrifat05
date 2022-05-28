@@ -1,13 +1,13 @@
 <h2 align="center">Hi, <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px" data-animated-image="" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"></a> I'm Md. Rifat Hossen</h2>
 <h4>I'm studying Computer Science and Engineering at American International University-Bangladesh (AIUB).</h4>
 
-- 🔭 I’m currently working on **Web tech project**
+- 🔭 I’m currently working on Web tech project
 
-- 🌱 I’m currently learning **Web technology, AI and problem solving.**
+- 🌱 I’m currently learning Web technology, AI and problem solving.
 
-<!-- 💬 Ask me about **Software development, Machin learning**-->
+- 💬 Ask me anything i'm happy to help.
 
-- 📫 How to reach me **hossen.mdrifat20@gmail.com**
+- 📫 How to reach me hossen.mdrifat20@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrifat05&label=Profile%20views&color=0e75b6&style=flat" alt="mdrifat05" /> </p>
 <img src="https://github.com/mdrifat05/mdrifat05/blob/master/code.gif" alt="coding image" height="300px">
