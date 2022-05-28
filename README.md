@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hossen.mdrifat20@gmail.com**
 <br>
-<img src="https://github.com/mdrifat05/mdrifat05/blob/master/code.gif" alt="coding image" height="100">
+<img src="https://github.com/mdrifat05/mdrifat05/blob/master/code.gif" alt="coding image" style="width:500px;height:600px;">
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
