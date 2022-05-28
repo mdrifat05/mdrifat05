@@ -1,4 +1,4 @@
-<h1 align="center">Hi <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px" data-animated-image="" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"></a>, I'm Md. Rifat Hossen</h1>
+<h1 align="center">Hi, <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px" data-animated-image="" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"></a> I'm Md. Rifat Hossen</h1>
 <h3 align="center">I'm currently studying Computer Science and Engineering at American International University-Bangladesh (AIUB).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrifat05&label=Profile%20views&color=0e75b6&style=flat" alt="mdrifat05" /> </p>
@@ -10,7 +10,9 @@
 <!-- 💬 Ask me about **Software development, Machin learning**-->
 
 - 📫 How to reach me **hossen.mdrifat20@gmail.com**
-
+<br>
+img src="F:\code.gif"
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mdrifat_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdrifat_05" height="30" width="40" /></a>
