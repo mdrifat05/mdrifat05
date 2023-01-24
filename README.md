@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Thesis project
 
-- 🌱 I’m currently learning .net framework, AI and problem solving.
+- 🌱 I’m currently learning .Net framework, AI and problem solving.
 
 - 💬 Ask me anything i'm happy to help.
 
