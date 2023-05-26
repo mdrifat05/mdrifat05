@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Thesis project
 
-- 🌱 I’m currently learning .Net framework, AI and problem solving.
+- 🌱 I have joined Bdjobs.com Ltd. as a Trainee Software Engineer and Cloud Architect position.
 
 - 💬 Ask me anything i'm happy to help.
 
