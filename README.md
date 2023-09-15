@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Thesis project
 
-- 🌱 I have joined Bdjobs.com Ltd. as a Trainee Software Engineer and Cloud Architect position.
+- 🌱 I have joined Bdjobs.com Ltd. as a Trainee Software Engineer and Cloud Architect.
 
 - 💬 Ask me anything i'm happy to help.
 
