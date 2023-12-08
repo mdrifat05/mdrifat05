@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on systen migration project
 
-- 🌱 I have joined Bdjobs.com Ltd. as a Trainee Software Engineer and Cloud Architect.
+- 🌱 I have joined Bdjobs.com Ltd. as a Jr. Software Engineer.
 
 - 💬 Ask me anything i'm happy to help.
 
