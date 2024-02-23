@@ -29,9 +29,9 @@
 
 <!--[GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrifat05&show_icons=true)
    
+-->
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdrifat05)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrifat05)](https://github.com/anuraghazra/github-readme-stats)-->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrifat05)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdrifat05)](https://github.com/ryo-ma/github-profile-trophy)
