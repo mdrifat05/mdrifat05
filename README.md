@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on legacy systen migration project
 
-- 🌱 I have joined Bdjobs.com Ltd. as a Jr. Software Engineer.
+- 🌱 I have joined HawarIT as a Software Engineer.
 
 - 💬 Ask me anything i'm happy to help.
 
