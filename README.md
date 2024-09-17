@@ -4,7 +4,7 @@
 </h2>
 <p>I'm studying Computer Science and Engineering at American International University-Bangladesh (AIUB).</p>
 
-- 🔭 I’m currently working on legacy systen migration project
+- 🔭 I’m currently reading system design
 
 - 🌱 I have joined HawarIT as a Software Engineer.
 
