@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="max-width: 100%;" alt="Animated Giphy">
   I'm Md. Rifat Hossen
 </h2>
-<p>I'm studying Computer Science and Engineering at American International University-Bangladesh (AIUB).</p>
+<p>I have graduated with a degree in Computer Science and Engineering from American International University-Bangladesh (AIUB).</p>
 
 - 🔭 I’m currently reading system design
 
